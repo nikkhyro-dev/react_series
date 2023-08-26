@@ -1,0 +1,53 @@
+
+.inputBody{
+background-color: rgba(0, 255, 255, 0.049);
+backdrop-filter: blur(15px);
+width: 98%;
+margin: 1.4rem auto;
+
+}
+.inner__inputBody
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem ;
+    gap: 1rem;
+}
+.display
+{
+    display: flex;
+    width: 80%;
+    margin: 1rem auto;
+    background-color: rgba(0, 255, 255, 0.049);
+backdrop-filter: blur(15px);
+min-height:20vh ;
+justify-content: space-between;
+align-items: center;
+padding: .4rem .7rem;
+}
+
+.main__container
+{
+
+    width: 100%;
+    height: auto;
+}
+.data
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(232, 138, 15, 0.403);
+    width: 50%;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    padding: .5rem ;
+}
+article{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
