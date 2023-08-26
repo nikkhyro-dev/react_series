@@ -1,0 +1,22 @@
+
+.watch
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(245, 222, 179, 0.499);
+    height: 100vh;
+    color: black;
+    font-weight: bold;
+    flex-direction: column;
+}
+.time
+{
+    font-size: 2.5rem;
+  
+}
+
+.time span
+{
+    margin: 0 2rem ;
+}

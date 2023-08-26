@@ -1,15 +1,14 @@
+import React from "react";
 
-import React from 'react'
-import Demo from './Components/Demo'
-import './App.css'
+import "./App.css";
+import DigitaWatch from './components/DigitalWatch'
 
 
 function App() {
   return (
-    <div>
-    <Demo isPicked={false} name ={'rahul kumar'}/>
-    </div>
+
+<DigitaWatch/>
   )
 }
 
-export default App
+export default App;

@@ -3,3 +3,9 @@ body
   background-color: rgb(34, 34, 50);
   color: white;
 }
+
+.active
+{
+
+color: rgb(236, 245, 236);
+}
